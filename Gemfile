@@ -34,6 +34,7 @@ gem 'font-awesome-rails'
 #Bootstrap4
 gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
+gem 'devise-bootstrap-views'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
