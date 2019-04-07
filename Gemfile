@@ -35,6 +35,10 @@ gem 'font-awesome-rails'
 gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
+gem 'omniauth-facebook'
+gem 'omniauth-twitter'
+gem 'omniauth-google-oauth2'
+gem 'dotenv-rails'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
